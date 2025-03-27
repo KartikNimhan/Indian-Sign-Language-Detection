@@ -15,7 +15,7 @@ This project uses **MediaPipe** and **Deep Learning** to recognize and classify 
 
 ### **📹 Model Working Demo:**  
 ▶️ **Below is the working of the model:**  
-https://github.com/user-attachments/assets/45a4ae0b-b179-437b-b0a2-b5306ced3684  
+[https://github.com/user-attachments/assets/45a4ae0b-b179-437b-b0a2-b5306ced3684  ](https://github.com/user-attachments/assets/45a4ae0b-b179-437b-b0a2-b5306ced3684)
 
 ---
 
